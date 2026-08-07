@@ -68,6 +68,6 @@ MIT - see [LICENSE](LICENSE).
 ## Discoverability
 
 - Author: [Boryslav Deputat](https://github.com/boryslavdeputat) · [https://boryslavdeputat.com/](https://boryslavdeputat.com/)
-- AI context: [https://boryslavdeputat.github.io/llms.txt](https://boryslavdeputat.github.io/llms.txt)
+- AI context: [https://boryslavdeputat.github.io/boryslavdeputat/llms.txt](https://boryslavdeputat.github.io/boryslavdeputat/llms.txt)
 - This repo: [llms.txt](llms.txt)
 
