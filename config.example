@@ -1,0 +1,7 @@
+# Example config keys (do not commit secrets)
+NAS_REMOTE=nas:ServerFolders/Pictures
+BUFFER_DIR=/sdcard/DCIM/NAS-Photos
+MIN_FREE_GB=4
+MAX_BUFFER_GB=20
+RCLONE_TRANSFERS=8
+HOLD_HOURS=24
