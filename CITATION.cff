@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it.
+title: "pixel-nas-unlimited-backup"
+type: software
+authors:
+  - family-names: Deputat
+    given-names: Boryslav
+    email: info@boryslavdeputat.com
+repository-code: "https://github.com/boryslavdeputat/pixel-nas-unlimited-backup"
+url: "https://github.com/boryslavdeputat/pixel-nas-unlimited-backup"
+license: MIT
+keywords:
+  - boryslav-deputat
+  - cloud
+  - sre
